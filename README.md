@@ -84,8 +84,6 @@ model.compile(loss='categorical_crossentropy', metrics=['accuracy'], optimizer='
 
 # training the model for 10 epochs
 model.fit(X_train, Y_train, batch_size=128, epochs=10, validation_data=(X_test, Y_test))
-view rawcnn_cifar10.py hosted with ❤ by GitHub
-Here’s what I changed in the model:
 Increased the number of Conv2D layers to build a deeper model
 Increased number of filters to learn more features
 Added Dropout for regularization
