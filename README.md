@@ -1,4 +1,4 @@
-# project-on-image-classification-using-keras-and-CNN
+# project-on-image-classification-using-keras-and-CNN with CIFA!)-10 Dataset.
 
 Images from the CIFAR-10 Dataset using CNNs
 MNIST is a beginner-friendly dataset in computer vision. It’s easy to score 90%+ on validation by using a CNN model. But what if you are beyond beginner and need something challenging to put your concepts to use?
